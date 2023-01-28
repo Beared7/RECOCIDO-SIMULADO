@@ -1,2 +1,2 @@
-# RECOCIDO-SIMULADO
-Un pequeño código acerca del recocido simulado, aplicado
+# RECOCIDO-SIMULADO (Metahurística)
+Un pequeño código acerca del recocido simulado. 
